@@ -51,4 +51,4 @@ Then, open the URL as instructed.
 This repository is formatted with prettier. To install prettier run `npm install -g
 prettier`. To use prettier run `prettier --write src`. 
 
-Note: The repository is automatically checked for formatting in CI.
+Note:- The repository is automatically checked for formatting in CI.
