@@ -1,4 +1,4 @@
-# Linera Developer Documentation
+## Linera Developer Documentation
 
 Repository for the developer documentation of Linera hosted on https://linera.dev
 
@@ -49,5 +49,6 @@ Then, open the URL as instructed.
 ## Formatting
 
 This repository is formatted with prettier. To install prettier run `npm install -g
-prettier`. To use prettier run `prettier --write src`. The repository is automatically
-checked for formatting in CI.
+prettier`. To use prettier run `prettier --write src`. 
+
+Note: The repository is automatically checked for formatting in CI.
